@@ -2,41 +2,41 @@
 
 ## 基础
 
-| 序号 | 题目                                        | LeetCode 地址                                                                  |
-| ---- | ------------------------------------------- | ------------------------------------------------------------------------------ |
-| 1    | [两数之和（简单）](./)                      | http://leetcode-cn.com/problems/two-sum                                        |
-| 2    | [有效的括号（简单）](./)                    | http://leetcode-cn.com/problems/valid-parentheses                              |
-| 3    | [字符串解码（中等）](./)                    | http://leetcode-cn.com/problems/decode-string                                  |
-| 4    | [LRU 缓存机制（困难）](./)                  | http://leetcode-cn.com/problems/lru-cache/submissions                          |
-| 5    | [实现 Trie（前缀树）（中等）](./)           | http://leetcode-cn.com/problems/implement-trie-prefix-tree                     |
-| 6    | [添加与搜索单词-数据结构设计（中等）](./)   | http://leetcode-cn.com/problems/add-and-search-word-data-structure-design      |
-| 7    | [单词搜索 II（困难）](./)                   | http://leetcode-cn.com/problems/word-search-ii                                 |
-| 8    | [找不同（简单）](./)                        | http://leetcode-cn.com/problems/find-the-difference                            |
-| 9    | [单词规律（简单）](./)                      | http://leetcode-cn.com/problems/word-pattern                                   |
-| 10   | [字符串中的第一个唯一字符（简单）](./)      | http://leetcode-cn.com/problems/first-unique-character-in-a-string             |
-| 11   | [无重复字符的最长子串（中等）](./)          | http://leetcode-cn.com/problems/longest-substring-without-repeating-characters |
-| 12   | [最小覆盖子串（困难）](./)                  | http://leetcode-cn.com/problems/minimum-window-substring                       |
-| 13   | [合并两个有序链表（简单）](./)              | http://leetcode-cn.com/problems/merge-two-sorted-lists                         |
-| 14   | [环形链表（简单）](./)                      | http://leetcode-cn.com/problems/linked-list-cycle                              |
-| 15   | [环形链表 II（中等）](./)                   | http://leetcode-cn.com/problems/linked-list-cycle-ii                           |
-| 16   | [反转链表（简单）](./)                      | http://leetcode-cn.com/problems/reverse-linked-list                            |
-| 17   | [反转链表 II（中等）](./)                   | http://leetcode-cn.com/problems/reverse-linked-list-ii                         |
-| 18   | [旋转链表（中等）](./)                      | http://leetcode-cn.com/problems/rotate-list                                    |
-| 19   | [排序链表（中等）](./)                      | http://leetcode-cn.com/problems/sort-list                                      |
-| 20   | [链表中倒数第 k 个节点（简单）](./)         | http://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof   |
-| 21   | [两两交换链表中的节点（中等）](./)          | http://leetcode-cn.com/problems/swap-nodes-in-pairs                            |
-| 22   | [按奇偶排序数组（简单）](./)                | http://leetcode-cn.com/problems/sort-array-by-parity                           |
-| 23   | [按奇偶排序数组 II（简单）](./)             | http://leetcode-cn.com/problems/sort-array-by-parity-ii                        |
-| 24   | [有序数组的平方（简单）](./)                | http://leetcode-cn.com/problems/squares-of-a-sorted-array                      |
-| 25   | [山脉数组的峰顶索引（简单）](./)            | http://leetcode-cn.com/problems/peak-index-in-a-mountain-array                 |
-| 26   | [搜索旋转排序数组（困难）](./)              | http://leetcode-cn.com/problems/search-in-rotated-sorted-array                 |
-| 27   | [搜索旋转排序数组 II（中等）](./)           | http://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii              |
-| 28   | [寻找旋转排序数组中的最小值（中等）](./)    | http://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array           |
-| 29   | [寻找旋转排序数组中的最小值 II（困难）](./) | http://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii        |
-| 30   | [搜索二维矩阵（中等）](./)                  | http://leetcode-cn.com/problems/search-a-2d-matrix                             |
-| 31   | [等式方程的可满足性（中等）](./)            | http://leetcode-cn.com/problems/satisfiability-of-equality-equations           |
-| 32   | [朋友圈（中等）](./)                        | http://leetcode-cn.com/problems/friend-circles                                 |
-| 33   | [账户合并（中等）](./)                      | http://leetcode-cn.com/problems/accounts-merge                                 |
+| 序号 | 题目                                                   | LeetCode 地址                                                                  |
+| ---- | ------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| 1    | [两数之和（简单）](./code/two_sum_test.go)             | http://leetcode-cn.com/problems/two-sum                                        |
+| 2    | [有效的括号（简单）](./code/valid-parentheses_test.go) | http://leetcode-cn.com/problems/valid-parentheses                              |
+| 3    | [字符串解码（中等）](./code/decode_string_test.go)     | http://leetcode-cn.com/problems/decode-string                                  |
+| 4    | [LRU 缓存机制（困难）](./)                             | http://leetcode-cn.com/problems/lru-cache/submissions                          |
+| 5    | [实现 Trie（前缀树）（中等）](./)                      | http://leetcode-cn.com/problems/implement-trie-prefix-tree                     |
+| 6    | [添加与搜索单词-数据结构设计（中等）](./)              | http://leetcode-cn.com/problems/add-and-search-word-data-structure-design      |
+| 7    | [单词搜索 II（困难）](./)                              | http://leetcode-cn.com/problems/word-search-ii                                 |
+| 8    | [找不同（简单）](./)                                   | http://leetcode-cn.com/problems/find-the-difference                            |
+| 9    | [单词规律（简单）](./)                                 | http://leetcode-cn.com/problems/word-pattern                                   |
+| 10   | [字符串中的第一个唯一字符（简单）](./)                 | http://leetcode-cn.com/problems/first-unique-character-in-a-string             |
+| 11   | [无重复字符的最长子串（中等）](./)                     | http://leetcode-cn.com/problems/longest-substring-without-repeating-characters |
+| 12   | [最小覆盖子串（困难）](./)                             | http://leetcode-cn.com/problems/minimum-window-substring                       |
+| 13   | [合并两个有序链表（简单）](./)                         | http://leetcode-cn.com/problems/merge-two-sorted-lists                         |
+| 14   | [环形链表（简单）](./)                                 | http://leetcode-cn.com/problems/linked-list-cycle                              |
+| 15   | [环形链表 II（中等）](./)                              | http://leetcode-cn.com/problems/linked-list-cycle-ii                           |
+| 16   | [反转链表（简单）](./)                                 | http://leetcode-cn.com/problems/reverse-linked-list                            |
+| 17   | [反转链表 II（中等）](./)                              | http://leetcode-cn.com/problems/reverse-linked-list-ii                         |
+| 18   | [旋转链表（中等）](./)                                 | http://leetcode-cn.com/problems/rotate-list                                    |
+| 19   | [排序链表（中等）](./)                                 | http://leetcode-cn.com/problems/sort-list                                      |
+| 20   | [链表中倒数第 k 个节点（简单）](./)                    | http://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof   |
+| 21   | [两两交换链表中的节点（中等）](./)                     | http://leetcode-cn.com/problems/swap-nodes-in-pairs                            |
+| 22   | [按奇偶排序数组（简单）](./)                           | http://leetcode-cn.com/problems/sort-array-by-parity                           |
+| 23   | [按奇偶排序数组 II（简单）](./)                        | http://leetcode-cn.com/problems/sort-array-by-parity-ii                        |
+| 24   | [有序数组的平方（简单）](./)                           | http://leetcode-cn.com/problems/squares-of-a-sorted-array                      |
+| 25   | [山脉数组的峰顶索引（简单）](./)                       | http://leetcode-cn.com/problems/peak-index-in-a-mountain-array                 |
+| 26   | [搜索旋转排序数组（困难）](./)                         | http://leetcode-cn.com/problems/search-in-rotated-sorted-array                 |
+| 27   | [搜索旋转排序数组 II（中等）](./)                      | http://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii              |
+| 28   | [寻找旋转排序数组中的最小值（中等）](./)               | http://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array           |
+| 29   | [寻找旋转排序数组中的最小值 II（困难）](./)            | http://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii        |
+| 30   | [搜索二维矩阵（中等）](./)                             | http://leetcode-cn.com/problems/search-a-2d-matrix                             |
+| 31   | [等式方程的可满足性（中等）](./)                       | http://leetcode-cn.com/problems/satisfiability-of-equality-equations           |
+| 32   | [朋友圈（中等）](./)                                   | http://leetcode-cn.com/problems/friend-circles                                 |
+| 33   | [账户合并（中等）](./)                                 | http://leetcode-cn.com/problems/accounts-merge                                 |
 
 ## 深度优先搜索
 
