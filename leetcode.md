@@ -7,7 +7,7 @@
 | 1    | [两数之和（简单）](./code/two_sum_test.go)             | http://leetcode-cn.com/problems/two-sum                                        |
 | 2    | [有效的括号（简单）](./code/valid-parentheses_test.go) | http://leetcode-cn.com/problems/valid-parentheses                              |
 | 3    | [字符串解码（中等）](./code/decode_string_test.go)     | http://leetcode-cn.com/problems/decode-string                                  |
-| 4    | [LRU 缓存机制（困难）](./)                             | http://leetcode-cn.com/problems/lru-cache/submissions                          |
+| 4    | [LRU 缓存机制（困难）](./code/lru_test.go)             | http://leetcode-cn.com/problems/lru-cache                                      |
 | 5    | [实现 Trie（前缀树）（中等）](./)                      | http://leetcode-cn.com/problems/implement-trie-prefix-tree                     |
 | 6    | [添加与搜索单词-数据结构设计（中等）](./)              | http://leetcode-cn.com/problems/add-and-search-word-data-structure-design      |
 | 7    | [单词搜索 II（困难）](./)                              | http://leetcode-cn.com/problems/word-search-ii                                 |
